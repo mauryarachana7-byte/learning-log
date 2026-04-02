@@ -93,12 +93,12 @@ Already up to date.
 
 $ git add .
 
-maury@LAPTOP-8A5410UQ MINGW64 ~/learning-log (main)
+
 $ git commit -m "day 1 log uploaded"
 [main 75e2b2e] day 1 log uploaded
  1 file changed, 118 insertions(+), 14 deletions(-)
 
-maury@LAPTOP-8A5410UQ MINGW64 ~/learning-log (main)
+
 $ git push
 Enumerating objects: 5, done.
 Counting objects: 100% (5/5), done.
