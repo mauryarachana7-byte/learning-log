@@ -91,6 +91,26 @@ $ cd learning-log
 $ git pull
 Already up to date.
 
+$ git add .
+
+maury@LAPTOP-8A5410UQ MINGW64 ~/learning-log (main)
+$ git commit -m "day 1 log uploaded"
+[main 75e2b2e] day 1 log uploaded
+ 1 file changed, 118 insertions(+), 14 deletions(-)
+
+maury@LAPTOP-8A5410UQ MINGW64 ~/learning-log (main)
+$ git push
+Enumerating objects: 5, done.
+Counting objects: 100% (5/5), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 1.38 KiB | 1.38 MiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
+To https://github.com/mauryarachana7-byte/learning-log.git
+   c941632..75e2b2e  main -> main
+
+
+
 ```
 
 ---
